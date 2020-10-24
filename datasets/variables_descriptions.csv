@@ -1,0 +1,519 @@
+"Código
+da
+variável",descrição,Tipo ,Descrição
+V0001,Unidade da Federação,11,Rondônia
+V0001,Unidade da Federação,12,Acre
+V0001,Unidade da Federação,13,Amazonas
+V0001,Unidade da Federação,14,Roraima
+V0001,Unidade da Federação,15,Pará
+V0001,Unidade da Federação,16,Amapá
+V0001,Unidade da Federação,17,Tocantins
+V0001,Unidade da Federação,21,Maranhão
+V0001,Unidade da Federação,22,Piauí
+V0001,Unidade da Federação,23,Ceará
+V0001,Unidade da Federação,24,Rio Grande do Norte
+V0001,Unidade da Federação,25,Paraíba
+V0001,Unidade da Federação,26,Pernambuco
+V0001,Unidade da Federação,27,Alagoas
+V0001,Unidade da Federação,28,Sergipe
+V0001,Unidade da Federação,29,Bahia
+V0001,Unidade da Federação,31,Minas Gerais
+V0001,Unidade da Federação,32,Espírito Santo
+V0001,Unidade da Federação,33,Rio de Janeiro
+V0001,Unidade da Federação,35,São Paulo
+V0001,Unidade da Federação,41,Paraná
+V0001,Unidade da Federação,42,Santa Catarina
+V0001,Unidade da Federação,43,Rio Grande do Sul
+V0001,Unidade da Federação,50,Mato Grosso do Sul
+V0001,Unidade da Federação,51,Mato Grosso
+V0001,Unidade da Federação,52,Goiás
+V0001,Unidade da Federação,53,Distrito Federal
+M005,"Em algum dos seus trabalhos, o(a) Sr(a) trabalha em horário noturno?",1,Sim
+M005,"Em algum dos seus trabalhos, o(a) Sr(a) trabalha em horário noturno?",2,Não
+M005,"Em algum dos seus trabalhos, o(a) Sr(a) trabalha em horário noturno?",,Não aplicável
+M007," Em algum dos seus trabalhos, o(a) Sr(a) trabalha(va) em regime de turnos ininterruptos, isto é, por 24 horas seguidas",1,Sim
+M007," Em algum dos seus trabalhos, o(a) Sr(a) trabalha(va) em regime de turnos ininterruptos, isto é, por 24 horas seguidas",2,Não
+M007," Em algum dos seus trabalhos, o(a) Sr(a) trabalha(va) em regime de turnos ininterruptos, isto é, por 24 horas seguidas",,Não aplicável
+M008, Com que frequência o(a) Sr(a) trabalha(va) por 24 horas seguidas,1,Menos de 1 vez por mês
+M008, Com que frequência o(a) Sr(a) trabalha(va) por 24 horas seguidas,2,1 a 3 vezes por mês
+M008, Com que frequência o(a) Sr(a) trabalha(va) por 24 horas seguidas,3,1 vez por semana 
+M008, Com que frequência o(a) Sr(a) trabalha(va) por 24 horas seguidas,4,2 a 3 vezes por semana
+M008, Com que frequência o(a) Sr(a) trabalha(va) por 24 horas seguidas,5,4 vezes por semana
+M008, Com que frequência o(a) Sr(a) trabalha(va) por 24 horas seguidas,6,5 vezes ou mais por semana
+M008, Com que frequência o(a) Sr(a) trabalha(va) por 24 horas seguidas,,Não aplicável
+M010,"Pensando em todos os seus trabalhos, durante os últimos 30 dias, alguém fumou em algum ambiente fechado onde o(a) Sr(a) trabalha?",1,Sim
+M010,"Pensando em todos os seus trabalhos, durante os últimos 30 dias, alguém fumou em algum ambiente fechado onde o(a) Sr(a) trabalha?",2,Não
+M010,"Pensando em todos os seus trabalhos, durante os últimos 30 dias, alguém fumou em algum ambiente fechado onde o(a) Sr(a) trabalha?",,Não aplicável
+M01101,"Pensando em todos os seus trabalhos, o(a) Sr(a) está exposto(a) a manuseio de substâncias químicas que podem afetar a sua saúde? ",1,Sim
+M01101,"Pensando em todos os seus trabalhos, o(a) Sr(a) está exposto(a) a manuseio de substâncias químicas que podem afetar a sua saúde? ",2,Não
+M01101,"Pensando em todos os seus trabalhos, o(a) Sr(a) está exposto(a) a manuseio de substâncias químicas que podem afetar a sua saúde? ",,Não aplicável
+M01102,"Pensando em todos os seus trabalhos, o(a) Sr(a) está em exposição a ruído (barulho intenso) que pode afetar a sua saúde? ",1,Sim
+M01102,"Pensando em todos os seus trabalhos, o(a) Sr(a) está em exposição a ruído (barulho intenso) que pode afetar a sua saúde? ",2,Não
+M01102,"Pensando em todos os seus trabalhos, o(a) Sr(a) está em exposição a ruído (barulho intenso) que pode afetar a sua saúde? ",,Não aplicável
+M01103,"Pensando em todos os seus trabalhos, o(a) Sr(a) está em exposição longa ao sol que pode afetar a sua saúde? ",1,Sim
+M01103,"Pensando em todos os seus trabalhos, o(a) Sr(a) está em exposição longa ao sol que pode afetar a sua saúde? ",2,Não
+M01103,"Pensando em todos os seus trabalhos, o(a) Sr(a) está em exposição longa ao sol que pode afetar a sua saúde? ",,Não aplicável
+M01104,"Pensando em todos os seus trabalhos, o(a) Sr(a) está  exposto(a) a manuseio de material radioativo (transporte, recebimento, armazenagem, trabalho com raio-x) que pode afetar a sua saúde?",1,Sim
+M01104,"Pensando em todos os seus trabalhos, o(a) Sr(a) está  exposto(a) a manuseio de material radioativo (transporte, recebimento, armazenagem, trabalho com raio-x) que pode afetar a sua saúde?",2,Não
+M01104,"Pensando em todos os seus trabalhos, o(a) Sr(a) está  exposto(a) a manuseio de material radioativo (transporte, recebimento, armazenagem, trabalho com raio-x) que pode afetar a sua saúde?",,Não aplicável
+M01105,"Pensando em todos os seus trabalhos, o(a) Sr(a) está  exposto(a) a manuseio de resíduos urbanos (lixo) que podem afetar a sua saúde?",1,Sim
+M01105,"Pensando em todos os seus trabalhos, o(a) Sr(a) está  exposto(a) a manuseio de resíduos urbanos (lixo) que podem afetar a sua saúde?",2,Não
+M01105,"Pensando em todos os seus trabalhos, o(a) Sr(a) está  exposto(a) a manuseio de resíduos urbanos (lixo) que podem afetar a sua saúde?",,Não aplicável
+M01106,"Pensando em todos os seus trabalhos, o(a) Sr(a) está envolvido(a) em atividades que levam ao nervosismo que podem afetar a sua saúde?",1,Sim
+M01106,"Pensando em todos os seus trabalhos, o(a) Sr(a) está envolvido(a) em atividades que levam ao nervosismo que podem afetar a sua saúde?",2,Não
+M01106,"Pensando em todos os seus trabalhos, o(a) Sr(a) está envolvido(a) em atividades que levam ao nervosismo que podem afetar a sua saúde?",,Não aplicável
+M01107,"Pensando em todos os seus trabalhos, o(a) Sr(a) está em exposição a material biológico (sangue, agulhas, secreções) que podem afetar a sua saúde?",1,Sim
+M01107,"Pensando em todos os seus trabalhos, o(a) Sr(a) está em exposição a material biológico (sangue, agulhas, secreções) que podem afetar a sua saúde?",2,Não
+M01107,"Pensando em todos os seus trabalhos, o(a) Sr(a) está em exposição a material biológico (sangue, agulhas, secreções) que podem afetar a sua saúde?",,Não aplicável
+M01108,"Pensando em todos os seus trabalhos, o(a) Sr(a) está em exposição a poeira industrial (pó de mármore) que podem afetar a sua saúde?",1,Sim
+M01108,"Pensando em todos os seus trabalhos, o(a) Sr(a) está em exposição a poeira industrial (pó de mármore) que podem afetar a sua saúde?",2,Não
+M01108,"Pensando em todos os seus trabalhos, o(a) Sr(a) está em exposição a poeira industrial (pó de mármore) que podem afetar a sua saúde?",,Não aplicável
+M01301,Há quantos anos o(a) Sr(a) está no trabalho principal?,00,-
+M01301,Há quantos anos o(a) Sr(a) está no trabalho principal?,01 a 80,Anos
+M01301,Há quantos anos o(a) Sr(a) está no trabalho principal?,,Não aplicável
+M01302,Há quantos meses o(a) Sr(a) está no trabalho principal?,00,-
+M01302,Há quantos meses o(a) Sr(a) está no trabalho principal?,01 a 11,Meses
+M01302,Há quantos meses o(a) Sr(a) está no trabalho principal?,,Não aplicável
+M01303,Há quantos dia o(a) Sr(a) está no trabalho principal?,00,-
+M01303,Há quantos dia o(a) Sr(a) está no trabalho principal?,01 a 30,Dias
+M01303,Há quantos dia o(a) Sr(a) está no trabalho principal?,,Não aplicável
+M014,Com quantos familiares ou parentes o(a) Sr(a) se sente à vontade e pode falar sobre quase tudo?,00,Nenhum
+M014,Com quantos familiares ou parentes o(a) Sr(a) se sente à vontade e pode falar sobre quase tudo?,01 a 98,Pessoas
+M014,Com quantos familiares ou parentes o(a) Sr(a) se sente à vontade e pode falar sobre quase tudo?,,Não aplicável
+M015,Com quantos amigos o(a) Sr(a) se sente à vontade e pode falar sobre quase tudo? (sem considerar os familiares ou parentes),00,Nenhum
+M015,Com quantos amigos o(a) Sr(a) se sente à vontade e pode falar sobre quase tudo? (sem considerar os familiares ou parentes),01 a 98,Pessoas
+M015,Com quantos amigos o(a) Sr(a) se sente à vontade e pode falar sobre quase tudo? (sem considerar os familiares ou parentes),,Não aplicável
+M016,"Nos últimos 12 meses, com que frequência o(a) Sr(a) participou de atividades esportivas ou artísticas em grupo?",1,Mais de uma vez por semana
+M016,"Nos últimos 12 meses, com que frequência o(a) Sr(a) participou de atividades esportivas ou artísticas em grupo?",2,Uma vez por semana
+M016,"Nos últimos 12 meses, com que frequência o(a) Sr(a) participou de atividades esportivas ou artísticas em grupo?",3,De 2 a 3 vezes por mês
+M016,"Nos últimos 12 meses, com que frequência o(a) Sr(a) participou de atividades esportivas ou artísticas em grupo?",4,Algumas vezes no ano
+M016,"Nos últimos 12 meses, com que frequência o(a) Sr(a) participou de atividades esportivas ou artísticas em grupo?",5,Uma vez no ano
+M016,"Nos últimos 12 meses, com que frequência o(a) Sr(a) participou de atividades esportivas ou artísticas em grupo?",6,Nenhuma vez
+M016,"Nos últimos 12 meses, com que frequência o(a) Sr(a) participou de atividades esportivas ou artísticas em grupo?",,Não aplicável
+M018,"Nos últimos 12 meses, com que frequência o(a) Sr(a) participou de trabalho voluntário não remunerado?",1,Mais de uma vez por semana
+M018,"Nos últimos 12 meses, com que frequência o(a) Sr(a) participou de trabalho voluntário não remunerado?",2,Uma vez por semana
+M018,"Nos últimos 12 meses, com que frequência o(a) Sr(a) participou de trabalho voluntário não remunerado?",3,De 2 a 3 vezes por mês
+M018,"Nos últimos 12 meses, com que frequência o(a) Sr(a) participou de trabalho voluntário não remunerado?",4,Algumas vezes no ano
+M018,"Nos últimos 12 meses, com que frequência o(a) Sr(a) participou de trabalho voluntário não remunerado?",5,Uma vez no ano
+M018,"Nos últimos 12 meses, com que frequência o(a) Sr(a) participou de trabalho voluntário não remunerado?",6,Nenhuma vez
+M018,"Nos últimos 12 meses, com que frequência o(a) Sr(a) participou de trabalho voluntário não remunerado?",,Não aplicável
+M019,"Nos últimos 12 meses, com que frequência o(a) Sr(a) compareceu a cultos ou atividades da sua religião ou de outra religião? (sem contar com situações como casamento, batizado, ou enterro)",1,Mais de uma vez por semana
+M019,"Nos últimos 12 meses, com que frequência o(a) Sr(a) compareceu a cultos ou atividades da sua religião ou de outra religião? (sem contar com situações como casamento, batizado, ou enterro)",2,Uma vez por semana
+M019,"Nos últimos 12 meses, com que frequência o(a) Sr(a) compareceu a cultos ou atividades da sua religião ou de outra religião? (sem contar com situações como casamento, batizado, ou enterro)",3,De 2 a 3 vezes por mês
+M019,"Nos últimos 12 meses, com que frequência o(a) Sr(a) compareceu a cultos ou atividades da sua religião ou de outra religião? (sem contar com situações como casamento, batizado, ou enterro)",4,Algumas vezes no ano
+M019,"Nos últimos 12 meses, com que frequência o(a) Sr(a) compareceu a cultos ou atividades da sua religião ou de outra religião? (sem contar com situações como casamento, batizado, ou enterro)",5,Uma vez no ano
+M019,"Nos últimos 12 meses, com que frequência o(a) Sr(a) compareceu a cultos ou atividades da sua religião ou de outra religião? (sem contar com situações como casamento, batizado, ou enterro)",6,Nenhuma vez
+M019,"Nos últimos 12 meses, com que frequência o(a) Sr(a) compareceu a cultos ou atividades da sua religião ou de outra religião? (sem contar com situações como casamento, batizado, ou enterro)",,Não aplicável
+M019,"Nos últimos 12 meses, com que frequência o(a) Sr(a) compareceu a cultos ou atividades da sua religião ou de outra religião? (sem contar com situações como casamento, batizado, ou enterro)",,Não aplicável
+N010,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas no sono, como dificuldade para adormecer, acordar frequentemente à noite ou dormir mais do que de costume?",1,Nenhum dia
+N010,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas no sono, como dificuldade para adormecer, acordar frequentemente à noite ou dormir mais do que de costume?",2,Menos da metade dos dias
+N010,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas no sono, como dificuldade para adormecer, acordar frequentemente à noite ou dormir mais do que de costume?",3,Mais da metade dos dias 
+N010,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas no sono, como dificuldade para adormecer, acordar frequentemente à noite ou dormir mais do que de costume?",4,Quase todos os dias
+N010,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas no sono, como dificuldade para adormecer, acordar frequentemente à noite ou dormir mais do que de costume?",,Não aplicável
+N011,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas por não se sentir descansado(a) e disposto(a) durante o dia, sentindo-se cansado(a), sem ter energia? ",1,Nenhum dia
+N011,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas por não se sentir descansado(a) e disposto(a) durante o dia, sentindo-se cansado(a), sem ter energia? ",2,Menos da metade dos dias
+N011,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas por não se sentir descansado(a) e disposto(a) durante o dia, sentindo-se cansado(a), sem ter energia? ",3,Mais da metade dos dias 
+N011,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas por não se sentir descansado(a) e disposto(a) durante o dia, sentindo-se cansado(a), sem ter energia? ",4,Quase todos os dias
+N011,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas por não se sentir descansado(a) e disposto(a) durante o dia, sentindo-se cansado(a), sem ter energia? ",,Não aplicável
+N012,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve pouco interesse ou não senitiu prazer em fazer as coisas? ",1,Nenhum dia
+N012,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve pouco interesse ou não senitiu prazer em fazer as coisas? ",2,Menos da metade dos dias
+N012,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve pouco interesse ou não senitiu prazer em fazer as coisas? ",3,Mais da metade dos dias 
+N012,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve pouco interesse ou não senitiu prazer em fazer as coisas? ",4,Quase todos os dias
+N012,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve pouco interesse ou não senitiu prazer em fazer as coisas? ",,Não aplicável
+N013,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas para se concentrar nas suas atividades habituais? ",1, Nenhum dia
+N013,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas para se concentrar nas suas atividades habituais? ",2,Menos da metade dos dias
+N013,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas para se concentrar nas suas atividades habituais? ",3,Mais da metade dos dias
+N013,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas para se concentrar nas suas atividades habituais? ",4,Quase todos dias
+N013,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas para se concentrar nas suas atividades habituais? ",,Não aplicável
+N014,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas na alimentação, como ter falta de apetite ou comer muito mais do que de costume?",1, Nenhum dia
+N014,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas na alimentação, como ter falta de apetite ou comer muito mais do que de costume?",2,Menos da metade dos dias
+N014,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas na alimentação, como ter falta de apetite ou comer muito mais do que de costume?",3,Mais da metade dos dias
+N014,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas na alimentação, como ter falta de apetite ou comer muito mais do que de costume?",4,Quase todos dias
+N014,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas na alimentação, como ter falta de apetite ou comer muito mais do que de costume?",,Não aplicável
+N015,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve lentidão para se movimentar ou falar, ou ao contrário ficou muito agitado(a) ou inquieto(a)?",1, Nenhum dia
+N015,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve lentidão para se movimentar ou falar, ou ao contrário ficou muito agitado(a) ou inquieto(a)?",2,Menos da metade dos dias
+N015,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve lentidão para se movimentar ou falar, ou ao contrário ficou muito agitado(a) ou inquieto(a)?",3,Mais da metade dos dias
+N015,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve lentidão para se movimentar ou falar, ou ao contrário ficou muito agitado(a) ou inquieto(a)?",4,Quase todos dias
+N015,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve lentidão para se movimentar ou falar, ou ao contrário ficou muito agitado(a) ou inquieto(a)?",,Não aplicável
+N016,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",1, Nenhum dia
+N016,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",2,Menos da metade dos dias
+N016,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",3,Mais da metade dos dias
+N016,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",4,Quase todos dias
+N016,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?",,Não aplicável
+N017,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu mal consigo mesmo, se achando um fracasso ou achando que decepcionou sua família?",1, Nenhum dia
+N017,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu mal consigo mesmo, se achando um fracasso ou achando que decepcionou sua família?",2,Menos da metade dos dias
+N017,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu mal consigo mesmo, se achando um fracasso ou achando que decepcionou sua família?",3,Mais da metade dos dias
+N017,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu mal consigo mesmo, se achando um fracasso ou achando que decepcionou sua família?",4,Quase todos dias
+N017,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu mal consigo mesmo, se achando um fracasso ou achando que decepcionou sua família?",,Não aplicável
+N018,"Nas duas últimas semanas, com que frequência o(a) Sr(a) pensou em se ferir de alguma maneira ou achou que seria melhor estar morto?",1, Nenhum dia
+N018,"Nas duas últimas semanas, com que frequência o(a) Sr(a) pensou em se ferir de alguma maneira ou achou que seria melhor estar morto?",2,Menos da metade dos dias
+N018,"Nas duas últimas semanas, com que frequência o(a) Sr(a) pensou em se ferir de alguma maneira ou achou que seria melhor estar morto?",3,Mais da metade dos dias
+N018,"Nas duas últimas semanas, com que frequência o(a) Sr(a) pensou em se ferir de alguma maneira ou achou que seria melhor estar morto?",4,Quase todos dias
+N018,"Nas duas últimas semanas, com que frequência o(a) Sr(a) pensou em se ferir de alguma maneira ou achou que seria melhor estar morto?",,Não aplicável
+O009,"Nos últimos 12 meses, o(a) Sr(a) se envolveu em algum acidente de trânsito no qual tenha sofrido lesões corporais (ferimentos)?",1,Sim
+O009,"Nos últimos 12 meses, o(a) Sr(a) se envolveu em algum acidente de trânsito no qual tenha sofrido lesões corporais (ferimentos)?",2,Não
+O009,"Nos últimos 12 meses, o(a) Sr(a) se envolveu em algum acidente de trânsito no qual tenha sofrido lesões corporais (ferimentos)?",,Não aplicável
+O00901,"Se sim, quantos?",01 a 99,Não
+O00901,"Se sim, quantos?",,Não aplicável
+O014,"Para este acidente que considerou mais grave, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.)?",1,Sim
+O014,"Para este acidente que considerou mais grave, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.)?",2,Não
+O014,"Para este acidente que considerou mais grave, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.)?",,Não aplicável
+O019,"Por causa deste acidente de trânsito, o(a) Sr(a) precisou ser internado por 24 horas ou mais?",1,Sim
+O019,"Por causa deste acidente de trânsito, o(a) Sr(a) precisou ser internado por 24 horas ou mais?",2,Não
+O019,"Por causa deste acidente de trânsito, o(a) Sr(a) precisou ser internado por 24 horas ou mais?",,Não aplicável
+O020,O Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente deste acidente de trânsito?,1,Sim
+O020,O Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente deste acidente de trânsito?,2,Não
+O020,O Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente deste acidente de trânsito?,,Não aplicável
+O021,Nos últimos 12 meses o(a) Sr(a) se envolveu em algum acidente de trabalho (sem considerar os acidentes de trânsito)?,1,Sim
+O021,Nos últimos 12 meses o(a) Sr(a) se envolveu em algum acidente de trabalho (sem considerar os acidentes de trânsito)?,2,Não
+O021,Nos últimos 12 meses o(a) Sr(a) se envolveu em algum acidente de trabalho (sem considerar os acidentes de trânsito)?,3,Não se aplica / Pessoas que não trabalharam nos últimos 12 meses.
+O021,Nos últimos 12 meses o(a) Sr(a) se envolveu em algum acidente de trabalho (sem considerar os acidentes de trânsito)?,,Não aplicável
+O022,"Para o acidente de trabalho que considerou mais grave, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola, etc.)?",1,Sim
+O022,"Para o acidente de trabalho que considerou mais grave, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola, etc.)?",2,Não
+O022,"Para o acidente de trabalho que considerou mais grave, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola, etc.)?",,Não aplicável
+O023,"Por causa deste acidente de trabalho, o(a) Sr(a) precisou ser internado por 24 horas ou mais?",1,Sim
+O023,"Por causa deste acidente de trabalho, o(a) Sr(a) precisou ser internado por 24 horas ou mais?",2,Não
+O023,"Por causa deste acidente de trabalho, o(a) Sr(a) precisou ser internado por 24 horas ou mais?",,Não aplicável
+O024,O(a) Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente deste acidente de trabalho?,1,Sim
+O024,O(a) Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente deste acidente de trabalho?,2,Não
+O024,O(a) Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente deste acidente de trabalho?,,Não aplicável
+O025,"Nos últimos 12 meses, o(a) Sr(a) sofreu alguma violência ou agressão de pessoa desconhecida (como bandido, policial, assaltante etc.)?",1,Sim
+O025,"Nos últimos 12 meses, o(a) Sr(a) sofreu alguma violência ou agressão de pessoa desconhecida (como bandido, policial, assaltante etc.)?",2,Não
+O025,"Nos últimos 12 meses, o(a) Sr(a) sofreu alguma violência ou agressão de pessoa desconhecida (como bandido, policial, assaltante etc.)?",,Não aplicável
+O027,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa desconhecida nos últimos 12 meses, que tipo de violência o(a) Sr(a) sofreu?",1,Física
+O027,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa desconhecida nos últimos 12 meses, que tipo de violência o(a) Sr(a) sofreu?",2,Sexual
+O027,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa desconhecida nos últimos 12 meses, que tipo de violência o(a) Sr(a) sofreu?",3,Psicológica
+O027,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa desconhecida nos últimos 12 meses, que tipo de violência o(a) Sr(a) sofreu?",4,Outro
+O027,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa desconhecida nos últimos 12 meses, que tipo de violência o(a) Sr(a) sofreu?",,Não aplicável
+O028,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa desconhecida nos últimos 12 meses, como (a) sr(a) foi ameaçado(a) ou ferido(a)?",1,"Com arma de fogo (revólver, escopeta, pistola)"
+O028,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa desconhecida nos últimos 12 meses, como (a) sr(a) foi ameaçado(a) ou ferido(a)?",2,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)"
+O028,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa desconhecida nos últimos 12 meses, como (a) sr(a) foi ameaçado(a) ou ferido(a)?",3,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)"
+O028,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa desconhecida nos últimos 12 meses, como (a) sr(a) foi ameaçado(a) ou ferido(a)?",4,"Com força corporal, espancamento (tapa, murro, empurrão)"
+O028,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa desconhecida nos últimos 12 meses, como (a) sr(a) foi ameaçado(a) ou ferido(a)?",5,"Por meio de palavras ofensivas, xingamentos ou palavrões"
+O028,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa desconhecida nos últimos 12 meses, como (a) sr(a) foi ameaçado(a) ou ferido(a)?",6,Outro
+O028,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa desconhecida nos últimos 12 meses, como (a) sr(a) foi ameaçado(a) ou ferido(a)?",,Não aplicável
+O029,Onde ocorreu essa violência?,1,Residência
+O029,Onde ocorreu essa violência?,2,Trabalho
+O029,Onde ocorreu essa violência?,3,Escola/Faculdade ou similar
+O029,Onde ocorreu essa violência?,4,Bar ou similar                 
+O029,Onde ocorreu essa violência?,5,Via pública
+O029,Onde ocorreu essa violência?,6,Banco/Caixa eletrônico/Lotérica
+O029,Onde ocorreu essa violência?,7,Outro
+O029,Onde ocorreu essa violência?,,Não aplicável
+O030,"Nesta ocorrência, a violência foi cometida por:",1,"Bandido, ladrão ou assaltante"
+O030,"Nesta ocorrência, a violência foi cometida por:",2,Agente legal público (policial/agente da lei)
+O030,"Nesta ocorrência, a violência foi cometida por:",3,Outro
+O030,"Nesta ocorrência, a violência foi cometida por:",,Não aplicável
+O031,"Por causa dessa violência, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola, etc.)?",1,Sim
+O031,"Por causa dessa violência, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola, etc.)?",2,Não
+O031,"Por causa dessa violência, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola, etc.)?",,Não aplicável
+O032,O(a) Sr(a) teve alguma lesão corporal ou ferimento provocado por essa violência?,1,Sim
+O032,O(a) Sr(a) teve alguma lesão corporal ou ferimento provocado por essa violência?,2,Não
+O032,O(a) Sr(a) teve alguma lesão corporal ou ferimento provocado por essa violência?,,Não aplicável
+O036,O(a) Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente desta violência?,1,Sim
+O036,O(a) Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente desta violência?,2,Não
+O036,O(a) Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente desta violência?,,Não aplicável
+O037,"Nos últimos 12 meses, o(a) Sr(a) sofreu alguma violência ou agressão de pessoa conhecida (como pai, mãe, filho(a), cônjuge, parceiro(a), namorado(a), amigo(a), vizinho(a))?",1,Sim
+O037,"Nos últimos 12 meses, o(a) Sr(a) sofreu alguma violência ou agressão de pessoa conhecida (como pai, mãe, filho(a), cônjuge, parceiro(a), namorado(a), amigo(a), vizinho(a))?",2,Não
+O037,"Nos últimos 12 meses, o(a) Sr(a) sofreu alguma violência ou agressão de pessoa conhecida (como pai, mãe, filho(a), cônjuge, parceiro(a), namorado(a), amigo(a), vizinho(a))?",,Não aplicável
+O039,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, que tipo de violência o(a) Sr(a) sofreu?",1,Física 
+O039,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, que tipo de violência o(a) Sr(a) sofreu?",2,Sexual
+O039,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, que tipo de violência o(a) Sr(a) sofreu?",3,Psicológica
+O039,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, que tipo de violência o(a) Sr(a) sofreu?",4,Outra 
+O039,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, que tipo de violência o(a) Sr(a) sofreu?",,Não aplicável
+O040,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, como o(a) Sr(a) foi ameaçado(a) ou ferido(a)?",1,"Com força corporal/espancamento (tapa, murro, beliscão, empurrão)"
+O040,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, como o(a) Sr(a) foi ameaçado(a) ou ferido(a)?",2,"Com arma de fogo (revólver, escopeta, pistola)"
+O040,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, como o(a) Sr(a) foi ameaçado(a) ou ferido(a)?",3,"Com objeto pérfuro-cortante (faca, navalha, punhal, tesoura)         "
+O040,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, como o(a) Sr(a) foi ameaçado(a) ou ferido(a)?",4,"Com objeto contundente (pau, cassetete, barra de ferro, pedra)"
+O040,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, como o(a) Sr(a) foi ameaçado(a) ou ferido(a)?",5,Com arremesso de substância/objeto quente 
+O040,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, como o(a) Sr(a) foi ameaçado(a) ou ferido(a)?",6,Com lançamento de objetos
+O040,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, como o(a) Sr(a) foi ameaçado(a) ou ferido(a)?",7,Com envenenamento
+O040,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, como o(a) Sr(a) foi ameaçado(a) ou ferido(a)?",8,"Por meio de palavras ofensivas, xingamentos ou palavrões"
+O040,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, como o(a) Sr(a) foi ameaçado(a) ou ferido(a)?",9,Outro 
+O040,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, como o(a) Sr(a) foi ameaçado(a) ou ferido(a)?",,Não aplicável
+O041,Onde ocorreu esta violência?,1,Residência
+O041,Onde ocorreu esta violência?,2,Trabalho
+O041,Onde ocorreu esta violência?,3,Escola / Faculdade ou similar
+O041,Onde ocorreu esta violência?,4,Bar ou similar
+O041,Onde ocorreu esta violência?,5,Via pública
+O041,Onde ocorreu esta violência?,6,Outro
+O041,Onde ocorreu esta violência?,,Não aplicável
+O042,"Nesta ocorrência, a violência foi cometida por:",01,"Cônjuge, companheiro(a), namorado(a)"
+O042,"Nesta ocorrência, a violência foi cometida por:",02,"Ex-cônjuge, ex-companheiro(a), ex-namorado(a)"
+O042,"Nesta ocorrência, a violência foi cometida por:",03,Pai/Mãe
+O042,"Nesta ocorrência, a violência foi cometida por:",04,Padrasto/Madrasta
+O042,"Nesta ocorrência, a violência foi cometida por:",05,Filho(a)
+O042,"Nesta ocorrência, a violência foi cometida por:",06,Irmão(ã)                                     
+O042,"Nesta ocorrência, a violência foi cometida por:",07,Outro parente
+O042,"Nesta ocorrência, a violência foi cometida por:",08,Amigos(as)/colegas
+O042,"Nesta ocorrência, a violência foi cometida por:",09,Patrão/chefe
+O042,"Nesta ocorrência, a violência foi cometida por:",10,Outra pessoa conhecida
+O042,"Nesta ocorrência, a violência foi cometida por:",,Não aplicável
+O043,"Nos últimos 12 meses, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.) por causa desta violência?",1,Sim
+O043,"Nos últimos 12 meses, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.) por causa desta violência?",2,Não
+O043,"Nos últimos 12 meses, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.) por causa desta violência?",,Não aplicável
+O044,O(a) Sr(a) teve alguma lesão corporal ou ferimento provocado por essa violência?,1,Sim
+O044,O(a) Sr(a) teve alguma lesão corporal ou ferimento provocado por essa violência?,2,Não
+O044,O(a) Sr(a) teve alguma lesão corporal ou ferimento provocado por essa violência?,,Não aplicável
+O048,O(a) Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente desta violência?,1,Sim
+O048,O(a) Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente desta violência?,2,Não
+O048,O(a) Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente desta violência?,,Não aplicável
+O048,O(a) Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente desta violência?,,Não aplicável
+P006,Em quantos dias da semana o(a) costuma comer feijão? (0 =  Nunca ou menos de uma vez por semana),3,Dias da semana
+P007,"Em quantos dias da semana, o(a) Sr(a) costuma comer salada de alface e tomate ou salada de qualquer outra verdura ou legume cru? (0 =  Nunca ou menos de uma vez por semana)",3,Dias da semana
+P008,"Em geral, quantas vezes por dia o(a) Sr(a) come este tipo de salada?",1,1 vez por dia (no almoço ou no jantar)
+P008,"Em geral, quantas vezes por dia o(a) Sr(a) come este tipo de salada?",2,2 vezes por dia (no almoço e no jantar)
+P008,"Em geral, quantas vezes por dia o(a) Sr(a) come este tipo de salada?",3,3 vezes ou mais por dia
+P008,"Em geral, quantas vezes por dia o(a) Sr(a) come este tipo de salada?",,Não aplicável
+P009,"Em quantos dias da semana, o(a) Sr(a) costuma comer verdura ou legume cozido, como couve, cenoura, chuchu, berinjela, abobrinha? (sem contar batata, mandioca ou inhame) (0 = Nunca ou menos de uma vez por semana)",3,Dias da semana
+P010,"Em geral, quantas vezes por dia o(a) Sr(a) come verdura ou legume cozido? ",1,1 vez por dia (no almoço ou no jantar)
+P010,"Em geral, quantas vezes por dia o(a) Sr(a) come verdura ou legume cozido? ",2,2 vezes por dia (no almoço e no jantar)
+P010,"Em geral, quantas vezes por dia o(a) Sr(a) come verdura ou legume cozido? ",3,3 vezes ou mais por dia
+P010,"Em geral, quantas vezes por dia o(a) Sr(a) come verdura ou legume cozido? ",,Não aplicável
+P011,"Em quantos dias da semana o(a) Sr(a) costuma comer carne vermelha (boi, porco, cabrito)? (0 = Nunca ou menos de uma vez por semana)",3,Dias da semana
+P012,"Quando o(a) Sr(a) come carne vermelha, o(a) Sr(a)costuma:",1,Tirar o excesso de gordura visível
+P012,"Quando o(a) Sr(a) come carne vermelha, o(a) Sr(a)costuma:",2,Comer com a gordura               
+P012,"Quando o(a) Sr(a) come carne vermelha, o(a) Sr(a)costuma:",,Não aplicável
+P013,Em quantos dias da semana o(a) Sr(a) costuma comer frango/galinha? (0 = Nunca ou menos de uma vez por semana),2,Dias da semana
+P014,"Quando o(a) Sr(a)come frango/galinha, o(a) Sr(a) costuma:",1,Tirar a pele
+P014,"Quando o(a) Sr(a)come frango/galinha, o(a) Sr(a) costuma:",2,Comer com a pele
+P014,"Quando o(a) Sr(a)come frango/galinha, o(a) Sr(a) costuma:",,Não aplicável
+P015,Em quantos dias da semana o(a) Sr(a) costuma comer peixe? (0 = Nunca ou menos de uma vez por semana),2,Quantos dias da semana
+P016,Em quantos dias da semana o(a) Sr(a) costuma tomar suco de frutas natural? (0 = Nunca ou menos de uma vez por semana),2,Quantos dias da semana
+P017,"Em geral, quantos copos por dia o(a) Sr(a) toma de suco de frutas natural?",1,1 copo
+P017,"Em geral, quantos copos por dia o(a) Sr(a) toma de suco de frutas natural?",2,2 copos 
+P017,"Em geral, quantos copos por dia o(a) Sr(a) toma de suco de frutas natural?",3,3 copos ou mais
+P017,"Em geral, quantos copos por dia o(a) Sr(a) toma de suco de frutas natural?",,Não aplicável
+P018,Em quantos dias da semana o(a) Sr(a) costuma comer frutas? (0 = Nunca ou menos de uma vez por semana),3,Quantos dias da semana
+P019,"Em geral, quantas vezes por dia o(a) Sr(a) come frutas?",3,1 vez por dia
+P019,"Em geral, quantas vezes por dia o(a) Sr(a) come frutas?",3,2 vezes por dia 
+P019,"Em geral, quantas vezes por dia o(a) Sr(a) come frutas?",3,3 vezes ou mais por dia
+P019,"Em geral, quantas vezes por dia o(a) Sr(a) come frutas?",,Não aplicável
+P021,Que tipo de refrigerante ou suco artificial o(a) Sr(a) costuma tomar?,1,Normal
+P021,Que tipo de refrigerante ou suco artificial o(a) Sr(a) costuma tomar?,2,Diet/Light/Zero 
+P021,Que tipo de refrigerante ou suco artificial o(a) Sr(a) costuma tomar?,3,Ambos
+P021,Que tipo de refrigerante ou suco artificial o(a) Sr(a) costuma tomar?,,Não aplicável
+P023,Em quantos dias da semana o(a) Sr(a) costuma tomar leite? (não vale leite de soja) (0 = Nunca ou menos de uma vez por semana),3,Quantos dias da semana
+P024,"Quando o(a) Sr(a) toma leite, que tipo de leite costuma tomar?",1,Integral
+P024,"Quando o(a) Sr(a) toma leite, que tipo de leite costuma tomar?",2,Desnatado ou semidesnatado
+P024,"Quando o(a) Sr(a) toma leite, que tipo de leite costuma tomar?",3,Os dois tipos
+P024,"Quando o(a) Sr(a) toma leite, que tipo de leite costuma tomar?",,Não aplicável
+P025,"Em quantos dias da semana o(a) Sr(a) come alimentos doces, tais como pedaços de bolo ou torta, doces, chocolates, balas, biscoitos ou bolachas doces? (0 = Nunca ou menos de uma vez por semana)",3,Quantos dias da semana
+P026,"Em quantos dias da semana o(a) Sr(a) substitui a refeição do almoço ou jantar por sanduiches, salgados ou pizzas?  (0 = Nunca ou menos de uma vez por semana)",3,Quantos dias da semana
+P02601,"Considerando a comida preparada na hora e os alimentos industrializados, o(a) Sr(a) acha que o seu consumo de sal é: ",1,Muito alto
+P02601,"Considerando a comida preparada na hora e os alimentos industrializados, o(a) Sr(a) acha que o seu consumo de sal é: ",2,Alto
+P02601,"Considerando a comida preparada na hora e os alimentos industrializados, o(a) Sr(a) acha que o seu consumo de sal é: ",3,Adequado
+P02601,"Considerando a comida preparada na hora e os alimentos industrializados, o(a) Sr(a) acha que o seu consumo de sal é: ",4,Baixo
+P02601,"Considerando a comida preparada na hora e os alimentos industrializados, o(a) Sr(a) acha que o seu consumo de sal é: ",5,Muito baixo
+P02601,"Considerando a comida preparada na hora e os alimentos industrializados, o(a) Sr(a) acha que o seu consumo de sal é: ",,Não aplicável
+P027,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?,1,Não bebo nunca
+P027,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?,2,Menos de uma vez por mês
+P027,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?,3,Uma vez ou mais por mês
+P027,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?,,Não aplicável
+P028,Quantos dias por semana o(a) Sr(a) costuma tomar alguma bebida alcoólica? (0 = Nunca ou menos de uma vez por semana),3,Quantos dias da semana
+P029,"Em geral, no dia que o(a) Sr(a) bebe, quantas doses de bebida alcoólica o(a) Sr(a) consome? (1 dose de bebida alcoólica equivale a 1 lata de cerveja, 1 taça de vinho ou 1 dose de cachaça, whisky ou qualquer outra bebida alcoólica destilada)",3,Doses
+P031,Quantos anos o(a) Sr(a) tinha quando começou a consumir bebidas alcoólicas?,2,Anos
+P032,"Se homem: Nos últimos 30 dias, o Sr chegou a consumir 5 ou mais doses de bebida alcoólica em uma única ocasião? Ou Se mulher: Nos últimos 30 dias, a Sra chegou a consumir  4 ou mais doses de bebida alcoólica em uma única ocasião?",1,Sim
+P032,"Se homem: Nos últimos 30 dias, o Sr chegou a consumir 5 ou mais doses de bebida alcoólica em uma única ocasião? Ou Se mulher: Nos últimos 30 dias, a Sra chegou a consumir  4 ou mais doses de bebida alcoólica em uma única ocasião?",2,Não
+P032,"Se homem: Nos últimos 30 dias, o Sr chegou a consumir 5 ou mais doses de bebida alcoólica em uma única ocasião? Ou Se mulher: Nos últimos 30 dias, a Sra chegou a consumir  4 ou mais doses de bebida alcoólica em uma única ocasião?",,Não aplicável
+P033,Em quantos dias do mês isto ocorreu?,1,1 dia
+P033,Em quantos dias do mês isto ocorreu?,2,2 dias
+P033,Em quantos dias do mês isto ocorreu?,3,3 dias
+P033,Em quantos dias do mês isto ocorreu?,4,4 dias
+P033,Em quantos dias do mês isto ocorreu?,5,5 dias
+P033,Em quantos dias do mês isto ocorreu?,6,6 dias
+P033,Em quantos dias do mês isto ocorreu?,7,7 ou mais
+P033,Em quantos dias do mês isto ocorreu?,,Não aplicável
+P034,"Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte? (não considere fisioterapia)",1,Sim
+P034,"Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte? (não considere fisioterapia)",2,Não
+P034,"Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte? (não considere fisioterapia)",,Não aplicável
+P035,Quantos dias por semana o(a) Sr(a) costuma praticar exercício físico ou  esporte? (0 = Nunca ou menos de uma vez por semana),2,Quantos dias da semana
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,01,Caminhada (não vale para o trabalho)
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,02,Caminhada em esteira
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,03,Corrida/cooper
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,04,Corrida em esteira
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,05,Musculação
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,06,Ginástica aeróbica/spinning/step/jump
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,07,Hidroginástica
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,08,Ginástica em geral/localizada/pilates/alongamento/ioga
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,09,Natação
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,10,Artes marciais e luta
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,11,Bicicleta/ergomética
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,12,Futebol
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,13,Basquetebol
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,14,Voleibol
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,15,Tênis
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,16,Dança (com o objetivo de praticar atividade física)
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,17,Outro
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?,,Não aplicável
+P03701,"Em geral, no dia que o(a) Sr(a) pratica exercício ou esporte, quantas horas dura esta atividade?",17,Horas
+P03702,"Em geral, no dia que o(a) Sr(a) pratica exercício ou esporte, quantos minutos dura esta atividade?",17,Minutos
+P038,"No seu trabalho, o(a) Sr(a) anda bastante a pé?",1,Sim
+P038,"No seu trabalho, o(a) Sr(a) anda bastante a pé?",2,Não
+P038,"No seu trabalho, o(a) Sr(a) anda bastante a pé?",,Não aplicável
+P039,"No seu trabalho, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso?",1,Sim
+P039,"No seu trabalho, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso?",2,Não
+P039,"No seu trabalho, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso?",,Não aplicável
+P03901,"Em uma semana normal, em quantos dias o(a) Sr(a) faz essas atividades no seu trabalho?",2,Dias
+P03902,Quantas horas o(a) Sr(a) passa realizando atividades físicas pesadas em um dia normal de trabalho? ,2,Horas
+P03903,Quantos minutos o(a) Sr(a) passa realizando atividades físicas pesadas em um dia normal de trabalho? ,2,Minutos
+P040,"Para ir ou voltar do trabalho, o(a) Sr(a) faz algum trajeto a pé ou de bicicleta?",1,"Sim, todo o trajeto"
+P040,"Para ir ou voltar do trabalho, o(a) Sr(a) faz algum trajeto a pé ou de bicicleta?",2,"Sim, parte do trajeto"
+P040,"Para ir ou voltar do trabalho, o(a) Sr(a) faz algum trajeto a pé ou de bicicleta?",3,Não
+P040,"Para ir ou voltar do trabalho, o(a) Sr(a) faz algum trajeto a pé ou de bicicleta?",,Não aplicável
+P04101,"Quantas horas o(a) Sr(a) gasta para percorrer este trajeto a pé ou de bicicleta, considerando a ida e a volta do trabalho?",3,Horas
+P04102,"Quantos minutos o(a) Sr(a) gasta para percorrer este trajeto a pé ou de bicicleta, considerando a ida e a volta do trabalho?",3,Minutos
+P042,"Nas suas atividades habituais (tais como ir, ou levar alguém, a algum curso, escola ou clube), quantos dias por semana o(a) Sr(a) faz alguma atividade que envolva deslocamento a pé ou bicicleta? (0 = Nunca ou menos de uma vez por semana)",3,Dias
+P04301,"No dia que o(a) Sr(a) faz esta atividade, quantas horas o(a) Sr(a) gasta no deslocamento a pé ou de   bicicleta, considerando a ida e a volta?",3,Horas
+P04302,"No dia que o(a) Sr(a) faz esta atividade, quantos minutos o(a) Sr(a) gasta no deslocamento a pé ou de   bicicleta, considerando a ida e a volta?",3,Minutos
+P045,"Em média, quantas horas por dia o(a) Sr(a) costuma ficar assistindo televisão?",1,Menos de 1 hora
+P045,"Em média, quantas horas por dia o(a) Sr(a) costuma ficar assistindo televisão?",2,Entre 1 horas e menos de 2 horas
+P045,"Em média, quantas horas por dia o(a) Sr(a) costuma ficar assistindo televisão?",3,Entre 2 horas e menos de 3 horas
+P045,"Em média, quantas horas por dia o(a) Sr(a) costuma ficar assistindo televisão?",4,Entre 3 horas e menos de 4 horas
+P045,"Em média, quantas horas por dia o(a) Sr(a) costuma ficar assistindo televisão?",5,Entre 4 horas e menos de 5 horas
+P045,"Em média, quantas horas por dia o(a) Sr(a) costuma ficar assistindo televisão?",6,Entre 5 horas e menos de 6 horas
+P045,"Em média, quantas horas por dia o(a) Sr(a) costuma ficar assistindo televisão?",7,6 horas ou mais
+P045,"Em média, quantas horas por dia o(a) Sr(a) costuma ficar assistindo televisão?",8,Não assiste televisão
+P045,"Em média, quantas horas por dia o(a) Sr(a) costuma ficar assistindo televisão?",,Não aplicável
+P050,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco?",1,"Sim, diariamente          "
+P050,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco?",2,"Sim, menos que diariamente"
+P050,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco?",3,Não fumo atualmente       
+P050,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco?",,Não aplicável
+P051,"E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente?",1,Sim
+P051,"E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente?",2,Não
+P051,"E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente?",,Não aplicável
+P052,"E no passado, o(a) Sr(a) fumou algum produto do tabaco?",1,"Sim, diariamente          "
+P052,"E no passado, o(a) Sr(a) fumou algum produto do tabaco?",2,"Sim, menos que diariamente"
+P052,"E no passado, o(a) Sr(a) fumou algum produto do tabaco?",3,"Não, nunca fumei          "
+P052,"E no passado, o(a) Sr(a) fumou algum produto do tabaco?",,Não aplicável
+P05401,"Em média, com que frequência o(a) Sr(a) fuma cigarros industrializados?",1,Um ou mais por dia
+P05401,"Em média, com que frequência o(a) Sr(a) fuma cigarros industrializados?",2,Um ou mais por semana
+P05401,"Em média, com que frequência o(a) Sr(a) fuma cigarros industrializados?",3,Menos que uma vez por semana
+P05401,"Em média, com que frequência o(a) Sr(a) fuma cigarros industrializados?",4,Menos do que um por mês
+P05401,"Em média, com que frequência o(a) Sr(a) fuma cigarros industrializados?",5,Não fuma este produto
+P05401,"Em média, com que frequência o(a) Sr(a) fuma cigarros industrializados?",,Não aplicável
+P05404,"Em média, com que frequência o(a) Sr(a) fuma cigarros de palha ou enrolados a mão?",1,Um ou mais por dia
+P05404,"Em média, com que frequência o(a) Sr(a) fuma cigarros de palha ou enrolados a mão?",2,Um ou mais por semana
+P05404,"Em média, com que frequência o(a) Sr(a) fuma cigarros de palha ou enrolados a mão?",3,Menos que uma vez por semana
+P05404,"Em média, com que frequência o(a) Sr(a) fuma cigarros de palha ou enrolados a mão?",4,Menos do que um por mês
+P05404,"Em média, com que frequência o(a) Sr(a) fuma cigarros de palha ou enrolados a mão?",5,Não fuma este produto
+P05404,"Em média, com que frequência o(a) Sr(a) fuma cigarros de palha ou enrolados a mão?",,Não aplicável
+P05407,"Em média, com que frequência o(a) Sr(a) fuma cigarros cigarros de cravo ou de Bali?",1,Um ou mais por dia
+P05407,"Em média, com que frequência o(a) Sr(a) fuma cigarros cigarros de cravo ou de Bali?",2,Um ou mais por semana
+P05407,"Em média, com que frequência o(a) Sr(a) fuma cigarros cigarros de cravo ou de Bali?",3,Menos que uma vez por semana
+P05407,"Em média, com que frequência o(a) Sr(a) fuma cigarros cigarros de cravo ou de Bali?",4,Menos do que um por mês
+P05407,"Em média, com que frequência o(a) Sr(a) fuma cigarros cigarros de cravo ou de Bali?",5,Não fuma este produto
+P05407,"Em média, com que frequência o(a) Sr(a) fuma cigarros cigarros de cravo ou de Bali?",5,Número por dia
+P055,Quanto tempo depois de acordar o(a) Sr(a) normalmente fuma pela primeira vez?,1,Até 5 minutos
+P055,Quanto tempo depois de acordar o(a) Sr(a) normalmente fuma pela primeira vez?,2,De 6 a 30 minutos
+P055,Quanto tempo depois de acordar o(a) Sr(a) normalmente fuma pela primeira vez?,3,De 31 a 60 minutos
+P055,Quanto tempo depois de acordar o(a) Sr(a) normalmente fuma pela primeira vez?,4,Mais de 60 minutos
+P055,Quanto tempo depois de acordar o(a) Sr(a) normalmente fuma pela primeira vez?,,Não aplicável
+P058,"Em média, quantos cigarros industrializados o Sr.(a) fumava por dia ou por semana?",1,Um ou mais por dia     
+P058,"Em média, quantos cigarros industrializados o Sr.(a) fumava por dia ou por semana?",2,Um ou mais por semana  
+P058,"Em média, quantos cigarros industrializados o Sr.(a) fumava por dia ou por semana?",3,Menos que uma vez por semana
+P058,"Em média, quantos cigarros industrializados o Sr.(a) fumava por dia ou por semana?",4,Menos do que um por mês
+P058,"Em média, quantos cigarros industrializados o Sr.(a) fumava por dia ou por semana?",5,Não fuma este produto
+P058,"Em média, quantos cigarros industrializados o Sr.(a) fumava por dia ou por semana?",6,Não sabe
+P058,"Em média, quantos cigarros industrializados o Sr.(a) fumava por dia ou por semana?",,Não aplicável
+P05801,Especifique número de dias (P058),,Não aplicável
+P05802,Especifique número de semanas (P058),,Não aplicável
+P05901,Há quantos anos o(a) Sr(a) parou de fumar?,,Não aplicável
+P05902,Há quantos meses o(a) Sr(a) parou de fumar?,,Não aplicável
+P05903,Há quantos semanas o(a) Sr(a) parou de fumar?,,Não aplicável
+P05904,Há quantos dias o(a) Sr(a) parou de fumar?,,Não aplicável
+P068,Com que frequência alguém fuma dentro do seu domicílio?,1,Diariamente
+P068,Com que frequência alguém fuma dentro do seu domicílio?,2,Semanalmente
+P068,Com que frequência alguém fuma dentro do seu domicílio?,3,Mensalmente
+P068,Com que frequência alguém fuma dentro do seu domicílio?,4,Menos que mensalmente
+P068,Com que frequência alguém fuma dentro do seu domicílio?,5,Nunca
+P068,Com que frequência alguém fuma dentro do seu domicílio?,,Não aplicável
+Q002,Algum médico já lhe deu o diagnóstico de hipertensão arterial (pressão alta)?,1,Sim            
+Q002,Algum médico já lhe deu o diagnóstico de hipertensão arterial (pressão alta)?,2,Apenas durante a gravidez
+Q002,Algum médico já lhe deu o diagnóstico de hipertensão arterial (pressão alta)?,3,Não                      
+Q002,Algum médico já lhe deu o diagnóstico de hipertensão arterial (pressão alta)?,,Não aplicável
+Q030,Algum médico já lhe deu o diagnóstico de diabetes?,1,Sim             
+Q030,Algum médico já lhe deu o diagnóstico de diabetes?,2,Apenas durante a gravidez (só para mulheres)
+Q030,Algum médico já lhe deu o diagnóstico de diabetes?,3,Não
+Q030,Algum médico já lhe deu o diagnóstico de diabetes?,,Não aplicável
+Q05501,O(a) Sr(a) tem ou teve problemas na vista por causa do diabetes?,1,Sim
+Q05501,O(a) Sr(a) tem ou teve problemas na vista por causa do diabetes?,2,Não
+Q05501,O(a) Sr(a) tem ou teve problemas na vista por causa do diabetes?,,Não aplicável
+Q05502,O(a) Sr(a) tem ou teve infarto por causa do diabetes?,1,Sim
+Q05502,O(a) Sr(a) tem ou teve infarto por causa do diabetes?,2,Não
+Q05502,O(a) Sr(a) tem ou teve infarto por causa do diabetes?,,Não aplicável
+Q05503,O(a) Sr(a) tem ou teve AVC (Acidente Vascular cerebral) ou derrame por causa do diabetes?,1,Sim
+Q05503,O(a) Sr(a) tem ou teve AVC (Acidente Vascular cerebral) ou derrame por causa do diabetes?,2,Não
+Q05503,O(a) Sr(a) tem ou teve AVC (Acidente Vascular cerebral) ou derrame por causa do diabetes?,,Não aplicável
+Q05504,O(a) Sr(a) tem ou teve outro problema circulatório por causa do diabetes?,1,Sim
+Q05504,O(a) Sr(a) tem ou teve outro problema circulatório por causa do diabetes?,2,Não
+Q05504,O(a) Sr(a) tem ou teve outro problema circulatório por causa do diabetes?,,Não aplicável
+Q05505,O(a) Sr(a) tem ou teve problemas problema nos rins por causa do diabetes?,1,Sim
+Q05505,O(a) Sr(a) tem ou teve problemas problema nos rins por causa do diabetes?,2,Não
+Q05505,O(a) Sr(a) tem ou teve problemas problema nos rins por causa do diabetes?,,Não aplicável
+Q05506,O(a) Sr(a) tem ou teve Úlcera/ferida nos pés por causa do diabetes?,1,Sim
+Q05506,O(a) Sr(a) tem ou teve Úlcera/ferida nos pés por causa do diabetes?,2,Não
+Q05506,O(a) Sr(a) tem ou teve Úlcera/ferida nos pés por causa do diabetes?,,Não aplicável
+Q05507,"O(a) Sr(a) tem ou teve que fazer amputação de pés, pernas, mãos ou braços por causa do diabetes ?",1,Sim
+Q05507,"O(a) Sr(a) tem ou teve que fazer amputação de pés, pernas, mãos ou braços por causa do diabetes ?",2,Não
+Q05507,"O(a) Sr(a) tem ou teve que fazer amputação de pés, pernas, mãos ou braços por causa do diabetes ?",,Não aplicável
+Q05508,O(a) Sr(a) tem ou teve coma diabético por causa do diabetes?,1,Sim
+Q05508,O(a) Sr(a) tem ou teve coma diabético por causa do diabetes?,2,Não
+Q05508,O(a) Sr(a) tem ou teve coma diabético por causa do diabetes?,,Não aplicável
+Q05509,Outro,1,Sim
+Q05509,Outro,2,Não
+Q05509,Outro,,Não aplicável
+Q063,"Algum médico já lhe deu o diagnóstico de uma doença do coração tais como infarto, angina, insuficiência cardiaca ou outra?",1,Sim
+Q063,"Algum médico já lhe deu o diagnóstico de uma doença do coração tais como infarto, angina, insuficiência cardiaca ou outra?",2,Não
+Q063,"Algum médico já lhe deu o diagnóstico de uma doença do coração tais como infarto, angina, insuficiência cardiaca ou outra?",,Não aplicável
+Q068,Algum médico já lhe deu o diagnóstico de AVC (Acidente Vascular Cerebral) ou derrame?,1,Sim
+Q068,Algum médico já lhe deu o diagnóstico de AVC (Acidente Vascular Cerebral) ou derrame?,2,Não
+Q068,Algum médico já lhe deu o diagnóstico de AVC (Acidente Vascular Cerebral) ou derrame?,9 ,Ignorado
+Q068,Algum médico já lhe deu o diagnóstico de AVC (Acidente Vascular Cerebral) ou derrame?,,Não aplicável
+Q079,Algum médico já lhe deu o diagnóstico de artrite ou reumatismo? ,1,Sim
+Q079,Algum médico já lhe deu o diagnóstico de artrite ou reumatismo? ,2,Não
+Q079,Algum médico já lhe deu o diagnóstico de artrite ou reumatismo? ,,Não aplicável
+Q084,"O(a) Sr(a) tem algum problema crônico de coluna, como dor crônica nas costas ou no pescoço, lombalgia, dor ciática, problemas nas vértebras ou disco? ",1,Sim
+Q084,"O(a) Sr(a) tem algum problema crônico de coluna, como dor crônica nas costas ou no pescoço, lombalgia, dor ciática, problemas nas vértebras ou disco? ",2,Não
+Q084,"O(a) Sr(a) tem algum problema crônico de coluna, como dor crônica nas costas ou no pescoço, lombalgia, dor ciática, problemas nas vértebras ou disco? ",,Não aplicável
+Q092,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?,1,Sim
+Q092,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?,2,Não
+Q092,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?,,Não aplicável
+Q11001,"Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como esquizofrenia?",1,Sim
+Q11001,"Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como esquizofrenia?",2,Não
+Q11001,"Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como esquizofrenia?",,Não aplicável
+Q11002,"Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como transtorno bipolar?",1,Sim
+Q11002,"Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como transtorno bipolar?",2,Não
+Q11002,"Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como transtorno bipolar?",,Não aplicável
+Q11003,"Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como psicose ou TOC (Transtorno obsessivo compulsivo)?",1,Sim
+Q11003,"Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como psicose ou TOC (Transtorno obsessivo compulsivo)?",2,Não
+Q11003,"Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como psicose ou TOC (Transtorno obsessivo compulsivo)?",,Não aplicável
+Q11004,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental?,1,Sim
+Q11004,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental?,2,Não
+Q11004,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental?,,Não aplicável
+Q116,"Algum médico já lhe deu o diagnóstico de alguma doença no pulmão ou DPOC (Doença Pulmonar Obstrutiva Crônica), tais como  enfisema pulmonar, bronquite crônica ou outro?",1,Sim
+Q116,"Algum médico já lhe deu o diagnóstico de alguma doença no pulmão ou DPOC (Doença Pulmonar Obstrutiva Crônica), tais como  enfisema pulmonar, bronquite crônica ou outro?",2,Não
+Q116,"Algum médico já lhe deu o diagnóstico de alguma doença no pulmão ou DPOC (Doença Pulmonar Obstrutiva Crônica), tais como  enfisema pulmonar, bronquite crônica ou outro?",,Não aplicável
+Q120,Algum médico já lhe deu diagnóstico de câncer? ,1,Sim
+Q120,Algum médico já lhe deu diagnóstico de câncer? ,2,Não
+Q120,Algum médico já lhe deu diagnóstico de câncer? ,,Não aplicável
+Q124,Algum médico já lhe deu o diagnóstico de insuficiência renal crônica? ,1,Sim
+Q124,Algum médico já lhe deu o diagnóstico de insuficiência renal crônica? ,2,Não
+Q124,Algum médico já lhe deu o diagnóstico de insuficiência renal crônica? ,,Não aplicável
+Q132,"Nas últimas duas semanas, o(a) Sr(a) fez uso de algum medicamento para dormir? ",1,Sim
+Q132,"Nas últimas duas semanas, o(a) Sr(a) fez uso de algum medicamento para dormir? ",2,Não
+Q132,"Nas últimas duas semanas, o(a) Sr(a) fez uso de algum medicamento para dormir? ",,Não aplicável
+R041,A Sra já teve algum aborto espontâneo?,1,Sim                
+R041,A Sra já teve algum aborto espontâneo?,2,Não               
+R041,A Sra já teve algum aborto espontâneo?,,Não aplicável
+R042,A Sra já teve algum aborto provocado?,1,Sim                
+R042,A Sra já teve algum aborto provocado?,2,Não               
+R042,A Sra já teve algum aborto provocado?,,Não aplicável
+VDD004,Nível de instrução mais elevado alcançado (pessoas de 5 anos ou mais de idade) -  SISTEMA DE 8 ANOS,1,Sem instrução
+VDD004,Nível de instrução mais elevado alcançado (pessoas de 5 anos ou mais de idade) -  SISTEMA DE 8 ANOS,2,Fundamental incompleto ou equivalente
+VDD004,Nível de instrução mais elevado alcançado (pessoas de 5 anos ou mais de idade) -  SISTEMA DE 8 ANOS,3,Fundamental completo ou equivalente
+VDD004,Nível de instrução mais elevado alcançado (pessoas de 5 anos ou mais de idade) -  SISTEMA DE 8 ANOS,4,Médio incompleto ou equivalente
+VDD004,Nível de instrução mais elevado alcançado (pessoas de 5 anos ou mais de idade) -  SISTEMA DE 8 ANOS,5,Médio completo ou equivalente
+VDD004,Nível de instrução mais elevado alcançado (pessoas de 5 anos ou mais de idade) -  SISTEMA DE 8 ANOS,6,Superior incompleto ou equivalente
+VDD004,Nível de instrução mais elevado alcançado (pessoas de 5 anos ou mais de idade) -  SISTEMA DE 8 ANOS,7,Superior completo 
+VDD004,Nível de instrução mais elevado alcançado (pessoas de 5 anos ou mais de idade) -  SISTEMA DE 8 ANOS,,Não aplicável

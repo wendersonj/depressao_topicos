@@ -1,0 +1,143 @@
+"Código
+da
+variável",descrição
+V0001,Unidade da Federação
+M005,"Em algum dos seus trabalhos, o(a) Sr(a) trabalha em horário noturno?"
+M007," Em algum dos seus trabalhos, o(a) Sr(a) trabalha(va) em regime de turnos ininterruptos, isto é, por 24 horas seguidas"
+M008, Com que frequência o(a) Sr(a) trabalha(va) por 24 horas seguidas
+M010,"Pensando em todos os seus trabalhos, durante os últimos 30 dias, alguém fumou em algum ambiente fechado onde o(a) Sr(a) trabalha?"
+M01101,"Pensando em todos os seus trabalhos, o(a) Sr(a) está exposto(a) a manuseio de substâncias químicas que podem afetar a sua saúde? "
+M01102,"Pensando em todos os seus trabalhos, o(a) Sr(a) está em exposição a ruído (barulho intenso) que pode afetar a sua saúde? "
+M01103,"Pensando em todos os seus trabalhos, o(a) Sr(a) está em exposição longa ao sol que pode afetar a sua saúde? "
+M01104,"Pensando em todos os seus trabalhos, o(a) Sr(a) está  exposto(a) a manuseio de material radioativo (transporte, recebimento, armazenagem, trabalho com raio-x) que pode afetar a sua saúde?"
+M01105,"Pensando em todos os seus trabalhos, o(a) Sr(a) está  exposto(a) a manuseio de resíduos urbanos (lixo) que podem afetar a sua saúde?"
+M01106,"Pensando em todos os seus trabalhos, o(a) Sr(a) está envolvido(a) em atividades que levam ao nervosismo que podem afetar a sua saúde?"
+M01107,"Pensando em todos os seus trabalhos, o(a) Sr(a) está em exposição a material biológico (sangue, agulhas, secreções) que podem afetar a sua saúde?"
+M01108,"Pensando em todos os seus trabalhos, o(a) Sr(a) está em exposição a poeira industrial (pó de mármore) que podem afetar a sua saúde?"
+M01301,Há quantos anos o(a) Sr(a) está no trabalho principal?
+M01302,Há quantos meses o(a) Sr(a) está no trabalho principal?
+M01303,Há quantos dia o(a) Sr(a) está no trabalho principal?
+M014,Com quantos familiares ou parentes o(a) Sr(a) se sente à vontade e pode falar sobre quase tudo?
+M015,Com quantos amigos o(a) Sr(a) se sente à vontade e pode falar sobre quase tudo? (sem considerar os familiares ou parentes)
+M016,"Nos últimos 12 meses, com que frequência o(a) Sr(a) participou de atividades esportivas ou artísticas em grupo?"
+M018,"Nos últimos 12 meses, com que frequência o(a) Sr(a) participou de trabalho voluntário não remunerado?"
+M019,"Nos últimos 12 meses, com que frequência o(a) Sr(a) compareceu a cultos ou atividades da sua religião ou de outra religião? (sem contar com situações como casamento, batizado, ou enterro)"
+N010,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas no sono, como dificuldade para adormecer, acordar frequentemente à noite ou dormir mais do que de costume?"
+N011,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas por não se sentir descansado(a) e disposto(a) durante o dia, sentindo-se cansado(a), sem ter energia? "
+N012,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve pouco interesse ou não senitiu prazer em fazer as coisas? "
+N013,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas para se concentrar nas suas atividades habituais? "
+N014,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas na alimentação, como ter falta de apetite ou comer muito mais do que de costume?"
+N015,"Nas duas últimas semanas, com que frequência o(a) Sr(a) teve lentidão para se movimentar ou falar, ou ao contrário ficou muito agitado(a) ou inquieto(a)?"
+N016,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu deprimido(a), “pra baixo” ou sem perspectiva?"
+N017,"Nas duas últimas semanas, com que frequência o(a) Sr(a) se sentiu mal consigo mesmo, se achando um fracasso ou achando que decepcionou sua família?"
+N018,"Nas duas últimas semanas, com que frequência o(a) Sr(a) pensou em se ferir de alguma maneira ou achou que seria melhor estar morto?"
+O009,"Nos últimos 12 meses, o(a) Sr(a) se envolveu em algum acidente de trânsito no qual tenha sofrido lesões corporais (ferimentos)?"
+O00901,"Se sim, quantos?"
+O014,"Para este acidente que considerou mais grave, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.)?"
+O019,"Por causa deste acidente de trânsito, o(a) Sr(a) precisou ser internado por 24 horas ou mais?"
+O020,O Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente deste acidente de trânsito?
+O021,Nos últimos 12 meses o(a) Sr(a) se envolveu em algum acidente de trabalho (sem considerar os acidentes de trânsito)?
+O022,"Para o acidente de trabalho que considerou mais grave, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola, etc.)?"
+O023,"Por causa deste acidente de trabalho, o(a) Sr(a) precisou ser internado por 24 horas ou mais?"
+O024,O(a) Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente deste acidente de trabalho?
+O025,"Nos últimos 12 meses, o(a) Sr(a) sofreu alguma violência ou agressão de pessoa desconhecida (como bandido, policial, assaltante etc.)?"
+O027,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa desconhecida nos últimos 12 meses, que tipo de violência o(a) Sr(a) sofreu?"
+O028,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa desconhecida nos últimos 12 meses, como (a) sr(a) foi ameaçado(a) ou ferido(a)?"
+O029,Onde ocorreu essa violência?
+O030,"Nesta ocorrência, a violência foi cometida por:"
+O031,"Por causa dessa violência, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola, etc.)?"
+O032,O(a) Sr(a) teve alguma lesão corporal ou ferimento provocado por essa violência?
+O036,O(a) Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente desta violência?
+O037,"Nos últimos 12 meses, o(a) Sr(a) sofreu alguma violência ou agressão de pessoa conhecida (como pai, mãe, filho(a), cônjuge, parceiro(a), namorado(a), amigo(a), vizinho(a))?"
+O039,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, que tipo de violência o(a) Sr(a) sofreu?"
+O040,"Pensando na violência mais grave que o(a) Sr(a) sofreu de pessoa conhecida nos últimos 12 meses, como o(a) Sr(a) foi ameaçado(a) ou ferido(a)?"
+O041,Onde ocorreu esta violência?
+O042,"Nesta ocorrência, a violência foi cometida por:"
+O043,"Nos últimos 12 meses, o(a) Sr(a) deixou de realizar quaisquer de suas atividades habituais (trabalhar, realizar afazeres domésticos, ir à escola etc.) por causa desta violência?"
+O044,O(a) Sr(a) teve alguma lesão corporal ou ferimento provocado por essa violência?
+O048,O(a) Sr(a) teve ou tem alguma sequela e/ou incapacidade decorrente desta violência?
+P006,Em quantos dias da semana o(a) costuma comer feijão? (0 =  Nunca ou menos de uma vez por semana)
+P007,"Em quantos dias da semana, o(a) Sr(a) costuma comer salada de alface e tomate ou salada de qualquer outra verdura ou legume cru? (0 =  Nunca ou menos de uma vez por semana)"
+P008,"Em geral, quantas vezes por dia o(a) Sr(a) come este tipo de salada?"
+P009,"Em quantos dias da semana, o(a) Sr(a) costuma comer verdura ou legume cozido, como couve, cenoura, chuchu, berinjela, abobrinha? (sem contar batata, mandioca ou inhame) (0 = Nunca ou menos de uma vez por semana)"
+P010,"Em geral, quantas vezes por dia o(a) Sr(a) come verdura ou legume cozido? "
+P011,"Em quantos dias da semana o(a) Sr(a) costuma comer carne vermelha (boi, porco, cabrito)? (0 = Nunca ou menos de uma vez por semana)"
+P012,"Quando o(a) Sr(a) come carne vermelha, o(a) Sr(a)costuma:"
+P013,Em quantos dias da semana o(a) Sr(a) costuma comer frango/galinha? (0 = Nunca ou menos de uma vez por semana)
+P014,"Quando o(a) Sr(a)come frango/galinha, o(a) Sr(a) costuma:"
+P015,Em quantos dias da semana o(a) Sr(a) costuma comer peixe? (0 = Nunca ou menos de uma vez por semana)
+P016,Em quantos dias da semana o(a) Sr(a) costuma tomar suco de frutas natural? (0 = Nunca ou menos de uma vez por semana)
+P017,"Em geral, quantos copos por dia o(a) Sr(a) toma de suco de frutas natural?"
+P018,Em quantos dias da semana o(a) Sr(a) costuma comer frutas? (0 = Nunca ou menos de uma vez por semana)
+P019,"Em geral, quantas vezes por dia o(a) Sr(a) come frutas?"
+P021,Que tipo de refrigerante ou suco artificial o(a) Sr(a) costuma tomar?
+P023,Em quantos dias da semana o(a) Sr(a) costuma tomar leite? (não vale leite de soja) (0 = Nunca ou menos de uma vez por semana)
+P024,"Quando o(a) Sr(a) toma leite, que tipo de leite costuma tomar?"
+P025,"Em quantos dias da semana o(a) Sr(a) come alimentos doces, tais como pedaços de bolo ou torta, doces, chocolates, balas, biscoitos ou bolachas doces? (0 = Nunca ou menos de uma vez por semana)"
+P026,"Em quantos dias da semana o(a) Sr(a) substitui a refeição do almoço ou jantar por sanduiches, salgados ou pizzas?  (0 = Nunca ou menos de uma vez por semana)"
+P02601,"Considerando a comida preparada na hora e os alimentos industrializados, o(a) Sr(a) acha que o seu consumo de sal é: "
+P027,Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?
+P028,Quantos dias por semana o(a) Sr(a) costuma tomar alguma bebida alcoólica? (0 = Nunca ou menos de uma vez por semana)
+P029,"Em geral, no dia que o(a) Sr(a) bebe, quantas doses de bebida alcoólica o(a) Sr(a) consome? (1 dose de bebida alcoólica equivale a 1 lata de cerveja, 1 taça de vinho ou 1 dose de cachaça, whisky ou qualquer outra bebida alcoólica destilada)"
+P031,Quantos anos o(a) Sr(a) tinha quando começou a consumir bebidas alcoólicas?
+P032,"Se homem: Nos últimos 30 dias, o Sr chegou a consumir 5 ou mais doses de bebida alcoólica em uma única ocasião? Ou Se mulher: Nos últimos 30 dias, a Sra chegou a consumir  4 ou mais doses de bebida alcoólica em uma única ocasião?"
+P033,Em quantos dias do mês isto ocorreu?
+P034,"Nos últimos três meses, o(a) Sr(a) praticou algum tipo de exercício físico ou esporte? (não considere fisioterapia)"
+P035,Quantos dias por semana o(a) Sr(a) costuma praticar exercício físico ou  esporte? (0 = Nunca ou menos de uma vez por semana)
+P036,Qual o exercício físico ou esporte que o(a) Sr(a) pratica com mais frequência?
+P03701,"Em geral, no dia que o(a) Sr(a) pratica exercício ou esporte, quantas horas dura esta atividade?"
+P03702,"Em geral, no dia que o(a) Sr(a) pratica exercício ou esporte, quantos minutos dura esta atividade?"
+P038,"No seu trabalho, o(a) Sr(a) anda bastante a pé?"
+P039,"No seu trabalho, o(a) Sr(a) faz faxina pesada, carrega peso ou faz outra atividade pesada que requer esforço físico intenso?"
+P03901,"Em uma semana normal, em quantos dias o(a) Sr(a) faz essas atividades no seu trabalho?"
+P03902,Quantas horas o(a) Sr(a) passa realizando atividades físicas pesadas em um dia normal de trabalho? 
+P03903,Quantos minutos o(a) Sr(a) passa realizando atividades físicas pesadas em um dia normal de trabalho? 
+P040,"Para ir ou voltar do trabalho, o(a) Sr(a) faz algum trajeto a pé ou de bicicleta?"
+P04101,"Quantas horas o(a) Sr(a) gasta para percorrer este trajeto a pé ou de bicicleta, considerando a ida e a volta do trabalho?"
+P04102,"Quantos minutos o(a) Sr(a) gasta para percorrer este trajeto a pé ou de bicicleta, considerando a ida e a volta do trabalho?"
+P042,"Nas suas atividades habituais (tais como ir, ou levar alguém, a algum curso, escola ou clube), quantos dias por semana o(a) Sr(a) faz alguma atividade que envolva deslocamento a pé ou bicicleta? (0 = Nunca ou menos de uma vez por semana)"
+P04301,"No dia que o(a) Sr(a) faz esta atividade, quantas horas o(a) Sr(a) gasta no deslocamento a pé ou de   bicicleta, considerando a ida e a volta?"
+P04302,"No dia que o(a) Sr(a) faz esta atividade, quantos minutos o(a) Sr(a) gasta no deslocamento a pé ou de   bicicleta, considerando a ida e a volta?"
+P045,"Em média, quantas horas por dia o(a) Sr(a) costuma ficar assistindo televisão?"
+P050,"Atualmente, o(a) Sr(a) fuma algum produto do tabaco?"
+P051,"E no passado, o(a) Sr(a) fumou algum produto do tabaco diariamente?"
+P052,"E no passado, o(a) Sr(a) fumou algum produto do tabaco?"
+P05401,"Em média, com que frequência o(a) Sr(a) fuma cigarros industrializados?"
+P05404,"Em média, com que frequência o(a) Sr(a) fuma cigarros de palha ou enrolados a mão?"
+P05407,"Em média, com que frequência o(a) Sr(a) fuma cigarros cigarros de cravo ou de Bali?"
+P055,Quanto tempo depois de acordar o(a) Sr(a) normalmente fuma pela primeira vez?
+P058,"Em média, quantos cigarros industrializados o Sr.(a) fumava por dia ou por semana?"
+P05801,Especifique número de dias (P058)
+P05802,Especifique número de semanas (P058)
+P05901,Há quantos anos o(a) Sr(a) parou de fumar?
+P05902,Há quantos meses o(a) Sr(a) parou de fumar?
+P05903,Há quantos semanas o(a) Sr(a) parou de fumar?
+P05904,Há quantos dias o(a) Sr(a) parou de fumar?
+P068,Com que frequência alguém fuma dentro do seu domicílio?
+Q002,Algum médico já lhe deu o diagnóstico de hipertensão arterial (pressão alta)?
+Q030,Algum médico já lhe deu o diagnóstico de diabetes?
+Q05501,O(a) Sr(a) tem ou teve problemas na vista por causa do diabetes?
+Q05502,O(a) Sr(a) tem ou teve infarto por causa do diabetes?
+Q05503,O(a) Sr(a) tem ou teve AVC (Acidente Vascular cerebral) ou derrame por causa do diabetes?
+Q05504,O(a) Sr(a) tem ou teve outro problema circulatório por causa do diabetes?
+Q05505,O(a) Sr(a) tem ou teve problemas problema nos rins por causa do diabetes?
+Q05506,O(a) Sr(a) tem ou teve Úlcera/ferida nos pés por causa do diabetes?
+Q05507,"O(a) Sr(a) tem ou teve que fazer amputação de pés, pernas, mãos ou braços por causa do diabetes ?"
+Q05508,O(a) Sr(a) tem ou teve coma diabético por causa do diabetes?
+Q05509,Outro
+Q063,"Algum médico já lhe deu o diagnóstico de uma doença do coração tais como infarto, angina, insuficiência cardiaca ou outra?"
+Q068,Algum médico já lhe deu o diagnóstico de AVC (Acidente Vascular Cerebral) ou derrame?
+Q079,Algum médico já lhe deu o diagnóstico de artrite ou reumatismo? 
+Q084,"O(a) Sr(a) tem algum problema crônico de coluna, como dor crônica nas costas ou no pescoço, lombalgia, dor ciática, problemas nas vértebras ou disco? "
+Q092,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?
+Q11001,"Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como esquizofrenia?"
+Q11002,"Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como transtorno bipolar?"
+Q11003,"Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como psicose ou TOC (Transtorno obsessivo compulsivo)?"
+Q11004,Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental?
+Q116,"Algum médico já lhe deu o diagnóstico de alguma doença no pulmão ou DPOC (Doença Pulmonar Obstrutiva Crônica), tais como  enfisema pulmonar, bronquite crônica ou outro?"
+Q120,Algum médico já lhe deu diagnóstico de câncer? 
+Q124,Algum médico já lhe deu o diagnóstico de insuficiência renal crônica? 
+Q132,"Nas últimas duas semanas, o(a) Sr(a) fez uso de algum medicamento para dormir? "
+R041,A Sra já teve algum aborto espontâneo?
+R042,A Sra já teve algum aborto provocado?
+VDD004,Nível de instrução mais elevado alcançado (pessoas de 5 anos ou mais de idade) -  SISTEMA DE 8 ANOS
